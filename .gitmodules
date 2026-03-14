@@ -1,0 +1,3 @@
+[submodule "BetterStore/deps/Economy"]
+	path = BetterStore/deps/Economy
+	url = https://github.com/SwiftlyS2-Plugins/Economy.git
