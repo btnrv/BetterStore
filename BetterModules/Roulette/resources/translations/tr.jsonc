@@ -1,0 +1,18 @@
+{
+  "Roulette.Prefix": "[green][Rulet] [default]",
+  "Roulette.BetsOpen": "Rulet aktif, [darkred]!red[default], [green]!green[default] veya [darkblue]!black[default] <miktar> yazarak bahis yapın.",
+  "Roulette.BetPlaced": "{1} üzerine {0} bahis koydunuz.",
+  "Roulette.BetUpdated": "{1} üzerindeki bahsiniz {0} olarak güncellendi.",
+  "Roulette.AlreadyBetOther": "Zaten {0} üzerine bahsiniz var. Tur başına sadece bir renk seçebilirsiniz.",
+  "Roulette.NoBetsOpen": "Şu anda bahis açık değil.",
+  "Roulette.InsufficientFunds": "Yeterli krediniz yok.",
+  "Roulette.InvalidAmount": "Kullanım: !{0} <miktar> (min: {1}, maks: {2})",
+  "Roulette.BelowMin": "Minimum bahis {0}.",
+  "Roulette.AboveMax": "Maksimum bahis {0}.",
+  "Roulette.Result": "Rulet {0} üzerinde durdu!",
+  "Roulette.Winner": "{0}, {2} üzerine bahis yaparak {1} kredi kazandı!",
+  "Roulette.NoWinners": "Bu turda kazanan yok.",
+  "Roulette.Color.Red": "[darkred]Kırmızı[default]",
+  "Roulette.Color.Green": "[green]Yeşil[default]",
+  "Roulette.Color.Black": "[darkblue]Siyah[default]"
+}

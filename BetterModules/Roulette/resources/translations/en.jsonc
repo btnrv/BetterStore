@@ -1,0 +1,18 @@
+{
+  "Roulette.Prefix": "[green][Roulette] [default]",
+  "Roulette.BetsOpen": "Bets are open! Use !red, !green, or !black <amount> to place a bet.",
+  "Roulette.BetPlaced": "You placed {0} on {1}.",
+  "Roulette.BetUpdated": "Your bet updated to {0} on {1}.",
+  "Roulette.AlreadyBetOther": "You already have a bet on {0}. You can only bet on one color per round.",
+  "Roulette.NoBetsOpen": "No bets are open right now.",
+  "Roulette.InsufficientFunds": "You don't have enough credits.",
+  "Roulette.InvalidAmount": "Usage: !{0} <amount> (min: {1}, max: {2})",
+  "Roulette.BelowMin": "Minimum bet is {0}.",
+  "Roulette.AboveMax": "Maximum bet is {0}.",
+  "Roulette.Result": "The ball landed on {0}!",
+  "Roulette.Winner": "{0} won {1} credits betting on {2}!",
+  "Roulette.NoWinners": "No winners this round.",
+  "Roulette.Color.Red": "[darkred]Red[default]",
+  "Roulette.Color.Green": "[green]Green[default]",
+  "Roulette.Color.Black": "[darkblue]Black[default]"
+}

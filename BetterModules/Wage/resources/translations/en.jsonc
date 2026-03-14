@@ -1,0 +1,7 @@
+{
+  "Wage.Prefix": "[green][Wage] [default]",
+  "Wage.Claimed": "You claimed your wage of {0} credits!",
+  "Wage.Cooldown": "You can claim your next wage in {0}h {1}m.",
+  "Wage.NoTier": "You do not have any wage tier assigned.",
+  "Wage.Error": "An error occurred. Please try again later."
+}

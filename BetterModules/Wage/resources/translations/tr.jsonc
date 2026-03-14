@@ -1,0 +1,7 @@
+{
+  "Wage.Prefix": "[green][Maaş] [default]",
+  "Wage.Claimed": "Maaşınız olan {0} kredi hesabınıza eklendi!",
+  "Wage.Cooldown": "Bir sonraki maaşınızı {0}s {1}dk sonra alabilirsiniz.",
+  "Wage.NoTier": "Herhangi bir maaş seviyeniz atanmamış.",
+  "Wage.Error": "Bir hata oluştu. Lütfen daha sonra tekrar deneyin."
+}

@@ -1,0 +1,36 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blackjack", "Blackjack\Blackjack.csproj", "{393FE6D6-873C-53C6-6EC5-219F0EB88D60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wage", "Wage\Wage.csproj", "{95DA21F4-C77C-84B6-91E7-66ADAAF09F98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roulette", "Roulette\Roulette.csproj", "{D514752E-3C47-43B1-4625-C9F4F024C36D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{393FE6D6-873C-53C6-6EC5-219F0EB88D60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{393FE6D6-873C-53C6-6EC5-219F0EB88D60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{393FE6D6-873C-53C6-6EC5-219F0EB88D60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{393FE6D6-873C-53C6-6EC5-219F0EB88D60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95DA21F4-C77C-84B6-91E7-66ADAAF09F98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95DA21F4-C77C-84B6-91E7-66ADAAF09F98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95DA21F4-C77C-84B6-91E7-66ADAAF09F98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95DA21F4-C77C-84B6-91E7-66ADAAF09F98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D514752E-3C47-43B1-4625-C9F4F024C36D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D514752E-3C47-43B1-4625-C9F4F024C36D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D514752E-3C47-43B1-4625-C9F4F024C36D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D514752E-3C47-43B1-4625-C9F4F024C36D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {589C0A0A-6D66-4196-BBBF-189203102FF3}
+	EndGlobalSection
+EndGlobal

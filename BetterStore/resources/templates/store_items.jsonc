@@ -1,0 +1,374 @@
+{
+    "Oyuncu Modelleri": {
+        "CT Modelleri": {
+            "Epstein": {
+                "item_id": "jepstein",
+                "type": "playerskin",
+                "price": "40000",
+                "currency": "kredi",
+                "model": "characters/models/nozb1/jeffrey_epstein_player_model/jeffrey_epstein_player_model.vmdl",
+                "duration": "30d",
+                "team": "ct"
+            },
+            "Batman": {
+                "item_id": "batman",
+                "type": "playerskin",
+                "price": "60000",
+                "currency": "kredi",
+                "model": "characters/models/selim/batman/batman.vmdl",
+                "duration": "30d",
+                "team": "ct"
+            },
+            "Hayri Potur": {
+                "item_id": "harry_potter",
+                "type": "playerskin",
+                "price": "80000",
+                "currency": "kredi",
+                "model": "characters/models/selim/harry_potter/harry_potter.vmdl",
+                "duration": "30d",
+                "team": "ct"
+            },
+            "Rakun": {
+                "item_id": "rakun",
+                "type": "playerskin",
+                "price": "100000",
+                "currency": "kredi",
+                "model": "characters/models/selim/rakun/rakun_blue.vmdl",
+                "duration": "30d",
+                "team": "ct"
+            }
+        },
+        "T Modelleri": {
+            "Mordecai": {
+                "item_id": "mordecai",
+                "type": "playerskin",
+                "price": "40000",
+                "currency": "kredi",
+                "model": "characters/models/otakku/mordecai/mordecai.vmdl",
+                "duration": "30d",
+                "team": "t"
+            },
+            "Futbolcu": {
+                "item_id": "ishowspeed",
+                "type": "playerskin",
+                "price": "60000",
+                "currency": "kredi",
+                "model": "characters/models/nozb1/ishowspeed_player_model/ishowspeed_player_model.vmdl",
+                "duration": "30d",
+                "team": "t"
+            },
+            "Hayalet": {
+                "item_id": "hayalet",
+                "type": "playerskin",
+                "price": "70000",
+                "currency": "kredi",
+                "model": "characters/models/otakku/ghost_face/ghost_face.vmdl",
+                "duration": "30d",
+                "team": "t"
+            },
+            "Freaky Tavşan": {
+                "item_id": "bugs_bunny",
+                "type": "playerskin",
+                "price": "80000",
+                "currency": "kredi",
+                "model": "characters/models/xavier/modelimxavier/bugsbunny/bugsbunny.vmdl",
+                "duration": "30d",
+                "team": "t"
+            },
+            "Rick": {
+                "item_id": "rick",
+                "type": "playerskin",
+                "price": "90000",
+                "currency": "kredi",
+                "model": "characters/models/selim/rick/rick.vmdl",
+                "duration": "30d",
+                "team": "t"
+            },
+            "Goku": {
+                "item_id": "goku",
+                "type": "playerskin",
+                "price": "100000",
+                "currency": "kredi",
+                "model": "characters/models/otakku/goku_ss3_v2/goku_ss3_v2.vmdl",
+                "duration": "30d",
+                "team": "t"
+            }
+        },
+        "Premium Modeller": {
+            "Şeytan Elbise": {
+                "item_id": "seytan_elbise",
+                "type": "playerskin",
+                "price": "80",
+                "currency": "elmas",
+                "duration": "30d",
+                "model": "characters/models/airi/cloth2.vmdl",
+                "team": "all"
+            },
+            "Cesur": {
+                "item_id": "cesur",
+                "type": "playerskin",
+                "price": "80",
+                "currency": "elmas",
+                "duration": "30d",
+                "model": "characters/models/ankeleiqi/ankeleiqi.vmdl",
+                "team": "all"
+            },
+            "Kedicik": {
+                "item_id": "kedicik",
+                "type": "playerskin",
+                "price": "80",
+                "currency": "elmas",
+                "duration": "30d",
+                "model": "characters/models/lazuli/cloth2.vmdl",
+                "team": "all"
+            },
+            "Tembel Kedi": {
+                "item_id": "tembel_kedi",
+                "type": "playerskin",
+                "price": "80",
+                "currency": "elmas",
+                "duration": "30d",
+                "model": "characters/models/lime/lime1.vmdl",
+                "team": "all"
+            },
+            "Sekreter": {
+                "item_id": "sekreter",
+                "type": "playerskin",
+                "price": "90",
+                "currency": "elmas",
+                "duration": "30d",
+                "model": "characters/models/bailang/suit.vmdl",
+                "team": "all"
+            },
+            "Liseli": {
+                "item_id": "liseli",
+                "type": "playerskin",
+                "price": "100",
+                "currency": "elmas",
+                "duration": "30d",
+                "model": "characters/models/lazuli/lazuli.vmdl",
+                "team": "all"
+            },
+            "Sporcu": {
+                "item_id": "sporcu",
+                "type": "playerskin",
+                "price": "110",
+                "currency": "elmas",
+                "duration": "30d",
+                "model": "characters/models/lime/lime3.vmdl",
+                "team": "all"
+            },
+            "Siber Kedi": {
+                "item_id": "siber_kedi",
+                "type": "playerskin",
+                "price": "110",
+                "currency": "elmas",
+                "duration": "30d",
+                "model": "characters/models/maruko/cyber_cat.vmdl",
+                "team": "all"
+            },
+            "Uykucu": {
+                "item_id": "cerenn_elbise",
+                "type": "playerskin",
+                "price": "120",
+                "currency": "elmas",
+                "duration": "30d",
+                "model": "characters/models/aili/qifeng_b/qifeng_a.vmdl",
+                "team": "all"
+            },
+            "Şeytan": {
+                "item_id": "seytan",
+                "type": "playerskin",
+                "price": "120",
+                "currency": "elmas",
+                "duration": "30d",
+                "model": "characters/models/airi/airi.vmdl",
+                "team": "all"
+            },
+            "Tatilci": {
+                "item_id": "tatilci",
+                "type": "playerskin",
+                "price": "120",
+                "currency": "elmas",
+                "duration": "30d",
+                "model": "characters/models/bailang/swim.vmdl",
+                "team": "all"
+            },
+            "Güllü": {
+                "item_id": "gullu",
+                "type": "playerskin",
+                "price": "120",
+                "currency": "elmas",
+                "duration": "30d",
+                "model": "characters/models/huajiayuexia/huajiayuexia.vmdl",
+                "team": "all"
+            },
+            "Ateşli": {
+                "item_id": "atesli",
+                "type": "playerskin",
+                "price": "120",
+                "currency": "elmas",
+                "duration": "30d",
+                "model": "characters/models/maruko/devil.vmdl",
+                "team": "all"
+            },
+            "Ejderha": {
+                "item_id": "ejderha",
+                "type": "playerskin",
+                "price": "130",
+                "currency": "elmas",
+                "duration": "30d",
+                "model": "characters/models/libel/libel.vmdl",
+                "team": "all"
+            },
+            "cerenn": {
+                "item_id": "cerenn",
+                "type": "playerskin",
+                "price": "150",
+                "currency": "elmas",
+                "duration": "30d",
+                "model": "characters/models/aili/qifeng_a/qifeng.vmdl",
+                "team": "all"
+            },
+            "Hava Bükücü": {
+                "item_id": "hava_bukucu",
+                "type": "playerskin",
+                "price": "150",
+                "currency": "elmas",
+                "duration": "30d",
+                "model": "characters/models/katixiya/katixiya.vmdl",
+                "team": "all"
+            },
+            "Beyaz": {
+                "item_id": "beyaz",
+                "type": "playerskin",
+                "price": "150",
+                "currency": "elmas",
+                "duration": "30d",
+                "model": "characters/models/lime/lime2.vmdl",
+                "team": "all"
+            },
+            "Melek": {
+                "item_id": "melek",
+                "type": "playerskin",
+                "price": "160",
+                "currency": "elmas",
+                "duration": "30d",
+                "model": "characters/models/ankeleiqi/swim.vmdl",
+                "team": "all"
+            }
+        }
+    },
+    "Silah Modelleri": {
+        "Bıçaklar": {
+            "Minecraft": {
+                "Elmas Kılıç": {
+                    "item_id": "diamond_sword",
+                    "type": "customweapon",
+                    "price": "150000",
+                    "currency": "kredi",
+                    "duration": "30d",
+                    "weapon": "weapon_knife:knife_elmas_kilic"
+                },
+                "Altın Kılıç": {
+                    "item_id": "gold_sword",
+                    "type": "customweapon",
+                    "price": "100000",
+                    "currency": "kredi",
+                    "duration": "30d",
+                    "weapon": "weapon_knife:knife_altin_kilic"
+                },
+                "Demir Kılıç": {
+                    "item_id": "iron_sword",
+                    "type": "customweapon",
+                    "price": "80000",
+                    "currency": "kredi",
+                    "duration": "30d",
+                    "weapon": "weapon_knife:knife_demir_kilic"
+                },
+                "Taş Kılıç": {
+                    "item_id": "stone_sword",
+                    "type": "customweapon",
+                    "price": "65000",
+                    "currency": "kredi",
+                    "duration": "30d",
+                    "weapon": "weapon_knife:knife_tas_kilic"
+                },
+                "Tahta Kılıç": {
+                    "item_id": "wooden_sword",
+                    "type": "customweapon",
+                    "price": "50000",
+                    "currency": "kredi",
+                    "duration": "30d",
+                    "weapon": "weapon_knife:knife_tahta_kilic"
+                }
+            },
+            "Valorant": {
+                "Asil Karambit": {
+                    "item_id": "prime_karambit",
+                    "type": "customweapon",
+                    "price": "150000",
+                    "currency": "kredi",
+                    "duration": "30d",
+                    "weapon": "weapon_knife:knife_asil_karambit"
+                },
+                "Yağmacı Kelebek": {
+                    "item_id": "soulstealer_butterfly",
+                    "type": "customweapon",
+                    "price": "200000",
+                    "currency": "kredi",
+                    "duration": "30d",
+                    "weapon": "weapon_knife:knife_yagmaci_kelebek"
+                },
+                "Yağmacı Karambit": {
+                    "item_id": "soulstealer_karambit",
+                    "type": "customweapon",
+                    "price": "200000",
+                    "currency": "kredi",
+                    "duration": "30d",
+                    "weapon": "weapon_knife:knife_yagmaci_karambit_2"
+                },
+                "RGX Kelebek": {
+                    "item_id": "rgx_butterfly",
+                    "type": "customweapon",
+                    "price": "200000",
+                    "currency": "kredi",
+                    "duration": "30d",
+                    "weapon": "weapon_knife:knife_rgx_kelebek_2"
+                },
+                "RGX Karambit": {
+                    "item_id": "rgx_karambit",
+                    "type": "customweapon",
+                    "price": "200000",
+                    "currency": "kredi",
+                    "duration": "30d",
+                    "weapon": "weapon_knife:knife_rgx_karambit"
+                },
+                "Champions Kelebek": {
+                    "item_id": "champions_butterfly",
+                    "type": "customweapon",
+                    "price": "230000",
+                    "currency": "kredi",
+                    "duration": "30d",
+                    "weapon": "weapon_knife:knife_champions_kelebek"
+                },
+                "Champions Karambit": {
+                    "item_id": "champions_karambit",
+                    "type": "customweapon",
+                    "price": "230000",
+                    "currency": "kredi",
+                    "duration": "30d",
+                    "weapon": "weapon_knife:knife_champions_karambit"
+                },
+                "VCT25 Karambit": {
+                    "item_id": "vct25_karambit",
+                    "type": "customweapon",
+                    "price": "230000",
+                    "currency": "kredi",
+                    "duration": "30d",
+                    "weapon": "weapon_knife:knife_vct25_karambit"
+                }
+            }
+        }
+    }
+}
