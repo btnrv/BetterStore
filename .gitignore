@@ -1,0 +1,74 @@
+## .NET / C# gitignore
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+build/
+publish/
+
+# MSBuild artifacts
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio cache/options
+.vs/
+*.ncb
+*.sdf
+*.opensdf
+*.VC.VC.opendb
+*.VC.db
+
+# Rider
+.idea/
+
+# Visual Studio Code
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+!**/packages/repositories.config
+!**/packages/build/
+nuget.config
+
+# NuGet lock files
+*.lock.json
+
+# obj folders
+**/obj/
+
+# Publish output
+**/publish/
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# OS-specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Zip archives (build output)
+*.zip
